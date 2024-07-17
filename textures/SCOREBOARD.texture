@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "SCOREBOARD",
+  "identifier": "texture:602242-347950ba-03e3-44e8-96e3-a1cf49e811ad",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "89321e9d95d3b87e7e5a11e02af3d5e7",
+  "assetLocator": "textures/SCOREBOARD.jpg",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:602798-347950ba-03e3-44e8-96e3-a1cf49e811ad",
+    "textureExportConfig:603362-347950ba-03e3-44e8-96e3-a1cf49e811ad",
+    "textureExportConfig:603934-347950ba-03e3-44e8-96e3-a1cf49e811ad"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 576,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "89321e9d95d3b87e7e5a11e02af3d5e7",
+      "colorCount": 4470,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "jpeg",
+      "entropyOfDistribution": 5.72558117702459,
+      "pixelsHigh": 576,
+      "pixelsWide": 1024
+    }
+  ]
+}
